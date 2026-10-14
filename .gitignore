@@ -1,0 +1,2 @@
+#Fisierele care trebuie excluse din incarcare
+.env
